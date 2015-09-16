@@ -1,7 +1,7 @@
 {
-  "name": "handle-errors",
-  "version": "0.0.0",
-  "description": "Small description for handle-errors goes here",
+  "name": "ember-error-handling",
+  "version": "0.1.0",
+  "description": "Demo app that shows how to handle backend errors in Ember",
   "private": true,
   "directories": {
     "doc": "doc",
@@ -16,7 +16,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Gennady Dogaev",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.1.2",
@@ -33,7 +33,7 @@
     "ember-cli-release": "0.2.3",
     "ember-cli-sri": "^1.0.3",
     "ember-cli-uglify": "^1.2.0",
-    "ember-data": "1.13.8",
+    "ember-data": "2.0.0",
     "ember-disable-proxy-controllers": "^1.0.0",
     "ember-export-application-global": "^1.0.3"
   }

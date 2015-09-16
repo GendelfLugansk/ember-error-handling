@@ -1,0 +1,11 @@
+<h2>
+    {{#if message}}
+        {{status}}: <small>{{message}}</small>
+    {{else}}
+        Your internet connection is gone
+    {{/if}}
+</h2>
+
+<div>
+    <button {{action 'retry'}}>Try again</button> or {{link-to 'Go to the main page' 'index'}}
+</div>
