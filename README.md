@@ -1,7 +1,7 @@
 # Ember-error-handling
 
 This is an application, demonstrating how to handle backend errors in Ember.js. Details can be found at
-http://blog.gennady.pp.ua/how-to-handle-server-errors-in-ember-js-properly/
+http://blog.gennady.pp.ua/how-to-handle-backend-errors-in-ember-js-properly/
 
 ## Prerequisites
 
