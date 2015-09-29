@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'handle-errors',
+    modulePrefix: 'ember-error-handling',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

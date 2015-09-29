@@ -1,5 +1,5 @@
 {
-  "name": "handle-errors",
+  "name": "ember-error-handling",
   "dependencies": {
     "ember": "2.0.2",
     "ember-cli-shims": "ember-cli/ember-cli-shims#0.0.5",
